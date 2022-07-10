@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  MeuPrimeiroProjeto
+//  AppNoticias
 //
-//  Created by Admin on 15/09/21.
+//  Created by Admin on 16/06/22.
 //
 
 import UIKit
